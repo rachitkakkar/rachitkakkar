@@ -10,7 +10,7 @@ I mostly know Python, but have coded projects in:
 - C# (Unity)
 - PHP (Custom CMS I Made)
 - C++ (A port of my Python Raytracer And A Parser For A Language)
-- C (Brainf\*\ck Interpreter)
+- C (Brainf\*ck Interpreter)
 
 # Portfolio
 - AdabiniMouseMover (Program To Move Mouse Using Hand)
