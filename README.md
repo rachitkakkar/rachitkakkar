@@ -1,6 +1,9 @@
 # Rachit Kakkar
 Hello, my name is Rachit Kakkar. I am a coder who has done a variety of projects both big and small. I see code as a tool, and I spend most of my time coding utilities to help me with my daily life. For example, I recently created a utility that removes all frames with hands from a video, to help me with stop motion :)! Another example is my most recent project is a terminal dasboard I am making to help me visualize my dividend stock portfolio!
 
+# Stats
+![Rachit Kakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachitkakkar&count_private=true)
+
 # Languages
 I mostly know English, but I am trying to learn Spanish at school.
 
