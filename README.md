@@ -12,7 +12,7 @@ I mostly know Python, but have coded projects in:
 - Javascript (Mostly For Webpages)
 - C# (Unity)
 - PHP (Custom CMS I Made)
-- C++ (A port of my Python Raytracer And A Parser For A Language)
+- C++ (A port of my Python Raytracer, Parser For A Language, And A 3D Game Engine)
 - C (Brainf\*ck Interpreter)
 
 # Portfolio
@@ -20,7 +20,8 @@ I mostly know Python, but have coded projects in:
 - Resurgance Renderer (Python Raytracer Supporting Shadows And Reflections)
 - AdabiniCMS (Simple PHP Blog CMS)
 - AdabiniPostMotion (Program To Help With Stop Motion)
-- DividendStockTerminalDashboard (Program To Help Me Visualize My Dividend Stock Portfolio)
+- DividendStockTerminalDashboard (Program To Help Me Visualize My Dividend Stock Portfolio) [WIP]
+- Croipe (A Wireframe 3D Game Engine That Renders To Console And Is Written In C++ 17) [Proprietary]
 
 # Skills
 - Video Editing
