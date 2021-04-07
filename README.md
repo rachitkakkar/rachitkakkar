@@ -21,7 +21,7 @@ I mostly know Python, but have coded projects in:
 - AdabiniCMS (Simple PHP Blog CMS)
 - AdabiniPostMotion (Program To Help With Stop Motion)
 - DividendStockTerminalDashboard (Program To Help Me Visualize My Dividend Stock Portfolio) [WIP]
-- Croipe (A Wireframe 3D Game Engine That Renders To Console And Is Written In C++ 17) [Proprietary]
+- Croipe (A Wireframe 3D Game Engine That Renders To Console And Is Written In C++ 17)
 
 # Skills
 - Video Editing
