@@ -1,9 +1,6 @@
 # Rachit Kakkar
 Hello, my name is Rachit Kakkar. I am mostly interested in 3D Graphics, although I have done various other things. My portfolio is [here.](https://rachitkakkar.github.io)
 
-# Stats
-![Rachit Kakkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachitkakkar&count_private=true)
-
 # Computer Languages
 I mostly know Python, but have coded projects in:
 - Javascript (Mostly For Webpages)
