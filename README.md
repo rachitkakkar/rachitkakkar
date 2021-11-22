@@ -9,6 +9,7 @@ I mostly know Python, but have coded projects in:
 - C++ (A port of my Python Raytracer, Parser For A Language, And A 3D Game Engine)
 - C (Brainf\*ck Interpreter)
 - Java (AP CS)
+- Powershell (Cyberpatriot Windows Script)
 
 # Skills
 - Video Editing
