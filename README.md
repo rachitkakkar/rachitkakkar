@@ -1,6 +1,6 @@
 # Rachit Kakkar
 # Skills 
-Languages: Python, C++, Java, Powershell, HTML/CSS, JavaScript
+Languages: Python, C++, Java, Powershell, HTML/CSS, JavaScript \
 Software: Adobe Premiere, After Effects, Illustrator, InDesign, Visual Studio Code, Neovim, CAD
 
 # Projects
