@@ -1,7 +1,7 @@
 # Rachit Kakkar
 # Skills 
 Languages: Python, C++, Java, Powershell, HTML/CSS, JavaScript \
-Software: Adobe Premiere, After Effects, Illustrator, InDesign, Visual Studio Code, Neovim, CAD
+Software: Adobe Premiere, After Effects, Illustrator, InDesign, Visual Studio Code, Neovim, CAD, NGSpice
 
 # Projects
 - [RachitBan](https://github.com/rachitkakkar/RachitBan): A Kanban board built with ReactJS. Designed as a learning project to learn the framework and get my foot in the door of web development as it is not something I have typically focused on.
