@@ -10,4 +10,4 @@ Software: Adobe Premiere Pro, After Effects, Illustrator, InDesign, Visual Studi
 - [python](https://github.com/rachitkakkar/python): A collection of various python scripts I have made over the years.
 
 # Website / Blog
-Vist me at: https://rachitkakkar.github.io!
+Vist me at: https://www.rachitkakkar.com!
